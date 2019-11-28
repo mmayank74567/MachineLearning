@@ -1,0 +1,2 @@
+Given in the jupyter notebook is implementation of logistic regression in python without using any libraries. 
+The concepts/methods followed are from Andrew Ng's Machine Learning Course.
